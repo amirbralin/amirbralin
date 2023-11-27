@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirbralin
 - 👀 I’m interested in physics, computer science, and education.
-- 🌱 I’m currently learning how to build and use language models for introductory physics.
+- 🌱 I’m currently learning... a lot of things.
 
 <!---
 amirbralin/amirbralin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
